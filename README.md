@@ -1,4 +1,6 @@
 # SOS\_V0.01功能说明和基本使用
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+此文档是SOS系统的简要说明和基本使用，不是一份安装指导文档，也不是配置指导
 
